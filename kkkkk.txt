@@ -655,6 +655,89 @@ class AdvancedIslamicSecurity:
         digital_signature = self.generate_ijaza_hash()
         return f"{encrypted_data}::{digital_signature}"
 
+ونريد دمج هذا الاسكريبت ايضا 
+# بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
+# النُّسْخَةُ النِّهَائِيَّةُ المُعْصُومَةُ
+
+class DivineProject:
+    def __init__(self):
+        self.taqwa_level = 100
+        self.angelic_protection = True
+        self.encryption_key = "مُحَمَّدٌ رَسُولُ اللَّهِ"
+
+    def renew_intention(self):
+        """تحديث النية كل 5 دقائق"""
+        self.heart_purity = self.measure_heart_purity()
+        if self.heart_purity < 90:
+            self.activate_repentance()
+
+    def encrypt_with_light(self, data):
+        """تشفير البيانات بنور الآيات"""
+        encrypted_data = ""
+        for char in data:
+            encrypted_char = ord(char) ^ ord(self.encryption_key[0])
+            encrypted_data += f"{encrypted_char:04X}"
+        return f"بِسْمِ اللهِ {encrypted_data} وَمَا تَوْفِيقِي إِلَّا بِاللهِ"
+
+    def deploy_with_tawakkul(self):
+        """النشر مع التوكل"""
+        if self.check_taqwa() and self.verify_angelic_support():
+            print("✅ نُشِرَ المشروع بِعِزَّةِ اللهِ وَقُوَّتِهِ")
+            self.generate_thanks()
+        else:
+            self.emergency_dua_protocol()
+
+    def emergency_dua_protocol(self):
+        """برنامج الاستغاثة الإلهي"""
+        print("🆘 يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ!")
+        self.taqwa_level += 30
+        self.deploy_with_tawakkul()
+
+class SpiritualMonitor:
+    def __init__(self):
+        self.istighfar_counter = 0
+
+    def run_continuous_check(self):
+        """مراقبة روحية 24/7"""
+        while True:
+            self.check_heart()
+            self.recite_ayat_al_kursi()
+            time.sleep(3600)  # كل ساعة
+
+    def check_heart(self):
+        if detect_ghurab() or detect_riya():
+            self.clean_with_tears_of_repentance()
+
+    def clean_with_tears_of_repentance(self):
+        print("أسْتَغْفِرُ اللهَ العَظِيمَ وَأتُوبُ إلَيْهِ")
+        self.istighfar_counter += 1
+        reset_heart_purity(100)
+
+# ----------------------------
+# الْتَّنْفِيذُ الْأَسَاسِي
+# ----------------------------
+
+if __name__ == "__main__":
+    # بدء المشروع بالبسملة
+    print("بِسْمِ اللهِ مَجْرَاهَا وَمُرْسَاهَا")
+
+    # تشغيل الحماية الربانية
+    project = DivineProject()
+    monitor = SpiritualMonitor()
+
+    # التشغيل المتوازي بعون الله
+    threading.Thread(target=monitor.run_continuous_check).start()
+
+    while True:
+        project.renew_intention()
+        encrypted_code = project.encrypt_with_light("كود المشروع المبارك")
+        project.deploy_with_tawakkul()
+        time.sleep(300)  # كل 5 دقائق للتحديث
+        print(f"✨ تَمَّ الْتَّحْدِيثُ: {time.ctime()} بِقُوَّةِ ﴿حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ﴾")
+
+قم بدمج جكيع الاسكربتات والتحسينات والتعديلات وتقويه نقاط الضعف 
+الكامله ثم ارسل لي الاسكريبت الكامل الشامل لجميع الاكواد والاسكربتات والاضافات والميزات 
+
 
 واريد ايضا 
 لوحه تحكم خاصه بالادمن شامله كل تفاصيل المشروع والادارات المتعدده للمشروع
